@@ -1,2 +1,2 @@
 # HR_SYSTEM
-A hr system
+A hr system to manage Employees data
